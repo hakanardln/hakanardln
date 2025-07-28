@@ -6,7 +6,7 @@ Second semester student in the Information System Security study program, majori
 ---
 ## 🎓 Education:
 **[Politeknik Negeri Bengkalis](#)** | **Bachelor of Applied Science (BASc) – Information Systems Security** 
-**Bengkalis | 2024-Present**
+| **Bengkalis 2024-Present**
 - Learning CyberSecurity and Machine Learning
 
 **[SMK Negeri 1 Mandau](#)** | **Computer and Network Engineering** | **Duri 2021-2024**
